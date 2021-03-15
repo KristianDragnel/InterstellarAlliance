@@ -1,4 +1,3 @@
-<!DOCTYPE html
 <html>
     <head>
         <title>Interstellar Alliance Template</title>
@@ -12,7 +11,7 @@
                class="logo"> 
                  <img src="images/2.png" 
                    
-            </div>
+            
             <nav>
             <button id="nav-toggle" class="hamburger-menu">
                 <span class="strip"></span>
@@ -20,10 +19,10 @@
                 <span class="strip"></span>
              </button>
             <ul id="nav-menu-container">
-                <h3><li>  <a href="#">Ho<FONT COLOR="lightblue">me</a>
+                <h3><li>  <a href="#">Ho<FONT COLOR="lightblue">me
                 <li>  <a href="#">Recrutment <FONT COLOR="lightblue">Billbords</FONT></a>
                 <li>  <a href="#">Mercenery <FONT COLOR="lightblue">Jobs</FONT></a>
-                <li>  <a href="#">Ship Parts <FONT COLOR="lightblue">and Scraps</FRONT></a>
+                <li>  <a href="#">Ship Parts <FONT COLOR="lightblue">and Scraps</a>
                 <li>  <a href="#">Economic <FONT COLOR="lightblue">Data</FONT></a>
                 <li>  <a href="#">Universal <FONT COLOR="lightblue">Guide</FONT></a>
                 <li>  <a href="#">Faction <FONT COLOR="lightblue">Wars</FONT></a>
