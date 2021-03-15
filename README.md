@@ -1,2 +1,0 @@
-# InterstellarAlliance
-StarAtlas Information network
