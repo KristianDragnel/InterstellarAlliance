@@ -5,14 +5,14 @@
     <head>
         <title>Interstellar Alliance Template</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="css/styles.css" rel="Stylesheet" tyoe="text.css" />
-    </head >
+        <link href="css/styles.css" rel="Stylesheet" tyoe="text.css"
+    </head>
 
     <body BGCOLOR="BLACK" TEXT="WHITE"></body>
         
             <p style="text-align:center;"
                class="logo"> 
-                 <img src="images/2.png" > </a>
+                 <img src="images/2.png" 
                    
             </div>
             <nav>
