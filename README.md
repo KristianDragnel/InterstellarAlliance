@@ -1,33 +1,49 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <script src="script.js" defer></script>
-  <link href="styles.css" rel="stylesheet">
-  <title>Tabs</title>
-</head>
-<body>
-  <ul class="tabs">
-    <li data-tab-target="#home" class="active tab">Home</li>
-    <li data-tab-target="#pricing" class="tab">Pricing</li>
-    <li data-tab-target="#about" class="tab">About</li>
-  </ul>
-
-  <div class="tab-content">
-    <div id="home" data-tab-content class="active">
-      <h1>Home</h1>
-      <p>This is the home</p>
-    </div>
-    <div id="pricing" data-tab-content>
-      <h1>Pricing</h1>
-      <p>Some information on pricing</p>
-    </div>
-    <div id="about" data-tab-content>
-      <h1>About</h1>
-      <p>Let me tell you about me</p>
-    </div>
-  </div>
-</body>
-</html>
+<!DOCTYPE html
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Interstellar Alliance</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="css/styles.css" rel="Stylesheet" tyoe="text.css">
+        <script src="script.js" defer></script>
+        <link href="styles.css" rel="stylesheet">
+    </head>
+        <section>
+             <body background="images/9.jpg">no-repeat</body>
+                 <p style="text-align:center;"
+                  class="logo"> 
+                 <img src="images/2.png">
+            <nav>
+                <body>
+                    <ul class="tabs">
+                      <li data-tab-target="#home" class="active tab">Home</li>
+                      <li data-tab-target="#pricing" class="tab">Pricing</li>
+                      <li data-tab-target="#about" class="tab">About</li>
+                    </ul>
+            <ul id="nav-tab-content">
+                <h3><li>  <a href="#">Ho<FONT COLOR="lightblue">me</a>
+                <li>  <a href="#">Recrutment <FONT COLOR="lightblue">Billbords</FONT></a>
+                <li>  <a href="#">Mercenery <FONT COLOR="lightblue">Jobs</FONT></a>
+                <li>  <a href="#">Ship Parts <FONT COLOR="lightblue">and Scraps</FRONT></a>
+                <li>  <a href="#">Economic <FONT COLOR="lightblue">Data</FONT></a>
+                <li>  <a href="#">Universal <FONT COLOR="lightblue">Guide</FONT></a>
+                <li>  <a href="#">Faction <FONT COLOR="lightblue">Wars</FONT></a>
+                <li>  <a href="#">Mini <FONT COLOR="lightblue">Games</FONT></a>
+                <li>  <a href="#">Multi-verse <FONT COLOR="lightblue">Ranking</FONT></a>
+                <li>  <a href="#">Most <FONT COLOR="lightblue">Wanted</FONT></a>
+                <li>  <a href="#">Latest <FONT COLOR="lightblue">News</FONT></a>   
+                </div>
+           </nav>
+             <body>
+                 <img src="images/5.jpg" height="1490">
+                        <div class="hero-marketing-text">
+                        <h1 style="text-align:center;">Interstellar <FONT COLOR="lightblue">Alliance</FONT></h1>
+                         <center><a href="#" id="login-register-button">Login / Register</a><center>
+                              
+                         </div>  
+                    </div>
+                 </div>
+        </section>          
+        </main>
+    </body>
+ </html>
