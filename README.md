@@ -1,1 +1,0 @@
-Interstellar Alliance web page
